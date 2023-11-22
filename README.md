@@ -1,1 +1,1 @@
-This project aimed to classifya job post as fake or not fake through the use of NLP techniques
+This project aims to classify a job post as fake or not fake through the use of NLP techniques
